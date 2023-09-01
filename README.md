@@ -1,3 +1,3 @@
 # Santhosh Ravi
 
-This is My Portfolio Page.
+This is My First GitHub commit. See you soon.
