@@ -1,0 +1,11 @@
+Open SourcePolicy
+
+How to get AI regulation right for open source
+
+Sharing our coalition paper to inform the final negotiation of the EU AI Act.
+
+The EU AI Act is set to become the first comprehensive AI regulation and to offer a model for policymakers around the world. But with this promise comes some risk. The Act may regulate upstream open source projects as if they are commercial products or deployed AI systems. This would be incompatible with open source development practices and counter to the needs of individual developers and non-profit research organizations.
+
+The Act risks chilling open source AI development and thus could undermine its goals of promoting responsible innovation in line with European values. To help explain why and to offer solutions, we’ve published a policy paper: “Supporting Open Source and Open Science in the AI Act.”
+
+Together with a coalition of leading open culture and AI organizations—Creative Commons, EleutherAI, Hugging Face, LAION, and Open Future—we intend for the paper to serve as a resource for policymakers crafting AI regulation. In the EU and beyond, it is essential that policymakers support the blossoming open source AI ecosystem.
